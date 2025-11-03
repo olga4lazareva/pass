@@ -1,0 +1,4 @@
+random-password-generator/
+├─ README.md
+├─ main.py
+└─ .gitignore
